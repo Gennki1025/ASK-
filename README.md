@@ -17,7 +17,8 @@
         </section>
         <section id="image-section">
             <h2>ブリーチのキャラクター</h2>
-               <img src="bleach-character.jpg" alt="ブリーチのキャラクター" />
+             <img src="bleach-character.jpg" alt="ブリーチのキャラクター" />
+
         </section>
     </main>
 </body>
