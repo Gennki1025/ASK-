@@ -17,6 +17,7 @@
         </section>
         <section id="image-section">
             <h2>ブリーチのキャラクター</h2>
+            <!-- 画像のパスを正確に指定します -->
             <img src="bleach-character.jpg" alt="ブリーチのキャラクター" />
         </section>
     </main>
