@@ -17,9 +17,41 @@
         </section>
         <section id="image-section">
             <h2>ブリーチのキャラクター</h2>
-            <!-- 画像のパスを正確に指定します -->
             <img src="bleach-character.jpg" alt="ブリーチのキャラクター" />
         </section>
     </main>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#description-section, #image-section {
+    margin-bottom: 2rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 1rem;
+}
+
